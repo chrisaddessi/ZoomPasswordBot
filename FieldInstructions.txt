@@ -1,0 +1,11 @@
+FIELD CLINICIANS: 
+Reset your password for: PRODUCTS HERE...
+1.) Access Password Manager: URL HERE
+2.) Click Forgot Password
+3.) Enter your username. 
+	a.)    Enter the CAPTCHA text
+	b.)    Press GO or the ENTER button on the keyboard
+4.) Answer Security Questions. (They are case sensitive)
+	a.)   Enter the CAPTCHA text
+	b.)   Press GO or the ENTER button on the keyboard
+5.) Enter the New password. (the requirements are at the bottom of the site and you must not use the last 4 passwords.)

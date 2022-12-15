@@ -1,0 +1,17 @@
+OFFICE USERS:
+Reset your password for: PRODUCTS...
+1.) If it hasn't expired yet, connect to the domain via REDACTED (GUIDE HERE)
+2.) Press CTRL+ALT+DEL
+3.) Select Change Password
+The password guidelines are as follows:
+- Must contain a minimum of 8 characters
+- Must contain 3 of the 4 variables:
+	- Uppercase character(s)
+	- Lowercase character(s)
+	- Number(s)
+	- Symbol(s)/Special character(s)
+- Cannot contain the user’s name
+- Cannot be the same as the previous 4 passwords
+- Password cannot be found within the dictionary list that contains commonly used and hacked passwords.
+
+If it has expired you will need to go to your local office,REDACTED
